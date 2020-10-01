@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Anime Of The Season</string>
+    <string name="anime_heading">Choose a Year and Season</string>
+    <string name="go">Go</string>
+    <string name="anime_title">Anime Title</string>
+    <string name="description">Description:</string>
+    <string-array name="years">
+        <item>Years</item>
+        <item>2010</item>
+        <item>2011</item>
+        <item>2012</item>
+        <item>2013</item>v
+        <item>2014</item>
+        <item>2015</item>
+        <item>2016</item>
+        <item>2017</item>
+        <item>2018</item>
+        <item>2019</item>
+    </string-array>
+    <string-array name="seasons">
+        <item>Seasons</item>
+        <item>spring</item>
+        <item>summer</item>
+        <item>fall</item>
+        <item>winter</item>
+    </string-array>
+</resources>
